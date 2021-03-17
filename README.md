@@ -1,2 +1,2 @@
 # springbatchtraining
-Application to read a file and write at terminal
+Application to read in database and write at terminal
